@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ray Liu
-- 👀 My major is in Computer Science
+- 👀 My major is Computer Science
 - 🌱 I’m currently living in Davis, California
 - 💞️ I’m looking to exercise every day
 - 📫 How to reach me through liutr18 at gmail.com
