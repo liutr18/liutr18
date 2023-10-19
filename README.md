@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ray Liu
 - 👀 I'm a software engineer
-- 🌱 I live and work in Greater Boston Metro, MA
+- 🌱 I work in Camrbidge, MA
 - 💞️ I’m looking to explore something new 
 - 📫 I can be reached through liutr18 at gmail.com
 
